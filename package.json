@@ -1,6 +1,6 @@
 {
   "name": "leetcode_leaderboard",
-  "homepage" : "https://www.markusevanger.no/leetcode",
+  "homepage" : "https://leetcode.markusevanger.no",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

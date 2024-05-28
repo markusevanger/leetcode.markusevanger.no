@@ -40,4 +40,9 @@ export const Brukere = {
       "emoji": "🔱"
     },
 
+    "MemMite": {
+      "bilde": "https://media.discordapp.net/attachments/852770651811086346/1174128192483766373/400163a04ec3c2109d3e4d9cfcebea49.jpg?ex=65667717&is=65540217&hm=83843c0c07bf5f0587894f5dd78a8f4fd859868aa8fd6ff698b696179576454b&=",
+      "emoji": "🍟"
+    },
+
   }
